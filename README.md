@@ -45,7 +45,38 @@ Dataset Source: Kaggle
 
 • Data Visualization
 
+## 🔍 Key Findings
+
+• Evening time slot recorded the highest bookings.
+
+• UPI was the most preferred payment method.
+
+• Cancellation rate stood at ~25%.
+
+• “No Driver Found” was highest in specific pickup hotspots.
+
+• Weekdays had more ride demand than weekends.
+
+## ▶️ How to Use
+
+1. Download the `.pbix` file.
+2. Open in Microsoft Power BI Desktop.
+3. Load dataset if prompted.
+4. Interact using slicers and filters.
+
+
 # 📂 Dataset
 
 NCR Uber ride dataset downloaded from Kaggle.
+
+## 📸 Dashboard Preview
+
+### Overview Dashboard
+![Overview](Screenshots/overview.png)
+
+### Time Analysis
+![Time](Screenshots/time.png)
+
+### Cancellation Analysis
+![Cancellation](Screenshots/cancellation.png)
 
