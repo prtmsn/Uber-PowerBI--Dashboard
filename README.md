@@ -72,11 +72,11 @@ NCR Uber ride dataset downloaded from Kaggle.
 ## 📸 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](Screenshots/overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### Time Analysis
-![Time](Screenshots/time.png)
+![Time](Screenshots/Time.png)
 
 ### Cancellation Analysis
-![Cancellation](Screenshots/cancellation.png)
+![Cancellation](Screenshots/Cancellation.png)
 
